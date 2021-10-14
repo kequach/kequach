@@ -1,5 +1,9 @@
-### Hi there 👋
+#  Hi, I'm `Keven` 
 
+I'm a Business Informatics student and web development / data science freelancer. You can find a detailed CV about me [here](https://kequach.github.io/).
+
+## 🌎 💬 🌱
+- How to reach me? Send me an email (see bio) 📫 
 <!--
 **kequach/kequach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
