@@ -1,8 +1,10 @@
 #  Hi, I'm `Keven` 
 
-I'm a Business Informatics student and web development / data science freelancer. You can find a detailed CV about me [here](https://kequach.github.io/).
+I'm a Business Informatics student and web development / data science freelancer. I am also a research assistant in the [Open Science](https://www.uu.nl/en/research/open-science) Program, more specifically in the Track [FAIR data and software](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software). 
 
-- How to reach me? Send me an email (see bio) 📫 
+You can find my online CV [here](https://kequach.github.io/).
+
+How to reach me? Send me an email (see bio) 📫 
 
 Or contact me via LinkedIn:
 <a href="https://www.linkedin.com/in/keven-quach-9907b7122/" target="_blank" rel="noopener noreferrer">
