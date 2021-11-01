@@ -1,4 +1,4 @@
-#  Hi, I'm `Keven` 
+#  Hi, I'm `Keven` 👋
 
 I'm a Business Informatics student and web development / data science freelancer. I am also a research assistant in the [Open Science](https://www.uu.nl/en/research/open-science) Program, more specifically in the Track [FAIR data and software](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software). 
 
