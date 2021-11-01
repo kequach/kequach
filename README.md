@@ -7,6 +7,7 @@ You can find my online CV [here](https://kequach.github.io/).
 How to reach me? Send me an email (see bio) 📫 
 
 Or contact me via LinkedIn:
+
 <a href="https://www.linkedin.com/in/keven-quach-9907b7122/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Keven Quach | LinkedIn" width="30px" src="https://github.com/kequach/kequach/blob/main/icons/linkedin.svg" />
 </a>
