@@ -1,8 +1,9 @@
 #  Hi, I'm `Keven` 👋
 
-I'm a Business Informatics student and web development / data science freelancer. I am also a research assistant in the [Open Science](https://www.uu.nl/en/research/open-science) Program, more specifically in the Track [FAIR data and software](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software). 
 
-You can find my online CV [here](https://kequach.github.io/). My UU employee page can be found [here](https://www.uu.nl/staff/KQuach).
+I am a software engineer at Bosch Connected Industry. I graduated in the Master program Business Informatics at Utrecht University. I was a research assistant in the [Open Science](https://www.uu.nl/en/research/open-science) Program, more specifically in the Track [FAIR data and software](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software). 
+
+You can find my online CV [here](https://kequach.github.io/). 
 
 How to reach me? Send me an email (see bio) 📫 
 
